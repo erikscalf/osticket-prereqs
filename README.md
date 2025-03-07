@@ -50,22 +50,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Move 'upload' folder to 'c\inetpub\wwwroot'
 - Rename 'upload' folder to 'osTicket'
 
+![ost](https://github.com/user-attachments/assets/bca87e59-c262-4354-b500-cceab96f895e)
 
-![ost](https://github.com/user-attachments/assets/eaef40ed-9f04-4f93-8f7e-2f9960a14061)
-
-
-
-- Install VC Redistributable file
-- Install MySQL
-
-
-![phpmysql](https://github.com/user-attachments/assets/ae62281c-d96b-42e8-8429-c398a7c64c79)
-
-- Run IIS as admin
-- Register PHP from IIS
-- Reload IIS
-
-![iisreload](https://github.com/user-attachments/assets/b90a0831-317d-4702-bff3-704f64f2856a)
 
 
 

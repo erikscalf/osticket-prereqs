@@ -33,7 +33,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![osticket](https://github.com/user-attachments/assets/a292d859-9e46-4650-a7f4-a347a967d047)
 
-<h1></h1>
 
 - Install VC Redistributable file
 - Install MySQL
@@ -47,18 +46,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![iisreload](https://github.com/user-attachments/assets/b90a0831-317d-4702-bff3-704f64f2856a)
 
-- Download osTicket
-- Enable ISS
-- Enable CGI
-- Install PHP Manager
-- Create the directory C:\PHP
-- Exract all PHP files into C:\PHP
+- Unzip osTicket files
+- Move 'upload' folder to 'c\inetpub\wwwroot'
+- Rename 'upload' folder to 'osTicket'
 
-<h2>Installation Steps</h2>
 
-![osticket](https://github.com/user-attachments/assets/a292d859-9e46-4650-a7f4-a347a967d047)
+![ost](https://github.com/user-attachments/assets/eaef40ed-9f04-4f93-8f7e-2f9960a14061)
 
-<h1></h1>
+
 
 - Install VC Redistributable file
 - Install MySQL

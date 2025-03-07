@@ -33,27 +33,45 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![osticket](https://github.com/user-attachments/assets/a292d859-9e46-4650-a7f4-a347a967d047)
 
+<h1></h1>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- Install VC Redistributable file
+- Install MySQL
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+![phpmysql](https://github.com/user-attachments/assets/ae62281c-d96b-42e8-8429-c398a7c64c79)
+
+- Run IIS as admin
+- Register PHP from IIS
+- Reload IIS
+
+![iisreload](https://github.com/user-attachments/assets/b90a0831-317d-4702-bff3-704f64f2856a)
+
+- Download osTicket
+- Enable ISS
+- Enable CGI
+- Install PHP Manager
+- Create the directory C:\PHP
+- Exract all PHP files into C:\PHP
+
+<h2>Installation Steps</h2>
+
+![osticket](https://github.com/user-attachments/assets/a292d859-9e46-4650-a7f4-a347a967d047)
+
+<h1></h1>
+
+- Install VC Redistributable file
+- Install MySQL
+
+
+![phpmysql](https://github.com/user-attachments/assets/ae62281c-d96b-42e8-8429-c398a7c64c79)
+
+- Run IIS as admin
+- Register PHP from IIS
+- Reload IIS
+
+![iisreload](https://github.com/user-attachments/assets/b90a0831-317d-4702-bff3-704f64f2856a)
+
+
+
 <br />

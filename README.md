@@ -32,6 +32,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![osticket](https://github.com/user-attachments/assets/a292d859-9e46-4650-a7f4-a347a967d047)
 
+<h1></h1>
+<br \>
+<br \>
 
 - Install VC Redistributable file
 - Install MySQL
@@ -39,11 +42,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![phpmysql](https://github.com/user-attachments/assets/ae62281c-d96b-42e8-8429-c398a7c64c79)
 
+<h1></h1>
+<br \>
+<br \>
+
 - Run IIS as admin
 - Register PHP from IIS
 - Reload IIS
 
 ![iisreload](https://github.com/user-attachments/assets/b90a0831-317d-4702-bff3-704f64f2856a)
+
+<h1></h1>
+<br \>
+<br \>
 
 - Unzip osTicket files
 - Move 'upload' folder to 'c\inetpub\wwwroot'
@@ -51,17 +62,46 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![ost](https://github.com/user-attachments/assets/bca87e59-c262-4354-b500-cceab96f895e)
 
+<h1></h1>
+<br \>
+<br \>
+
 - Restart IIS Manager
 - Browse to osTicket site within IIS Manager
 
 ![browsetoosticket](https://github.com/user-attachments/assets/82eaeff6-6b69-4aad-8fdc-2962d81fdf98)
+
+<h1></h1>
+<br \>
+<br \>
+
+- Enable Extensions within PHP Manager
+- Enable: php_imap.dll
+- Enable: php_intl.dll
+- Enable: php_opcache.dll
+
+![phpenableext](https://github.com/user-attachments/assets/bafbaacf-5a2f-4116-8635-0bcc80066566)
+
+<h1></h1>
+<br \>
+<br \>
+
+
+
+
+
 
 - Rename 'ost-sampleconfig.php' to 'ost-config.php
 - Remove all inherited permisions from 'ost-config.php'
 
 ![renamefile](https://github.com/user-attachments/assets/74eb136c-9b97-4da0-aef2-9242aff01747)
 
+<h1></h1>
+<br \>
+<br \>
 
+- Rename 'ost-sampleconfig.php' to 'ost-config.php
+- Remove all inherited permisions from 'ost-config.php'
 
 
 

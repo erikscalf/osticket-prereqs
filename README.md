@@ -51,10 +51,34 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![ost](https://github.com/user-attachments/assets/bca87e59-c262-4354-b500-cceab96f895e)
 
-
-
+- Restart IIS Manager
+- Browse to osTicket site within IIS Manager
 
 ![browsetoosticket](https://github.com/user-attachments/assets/82eaeff6-6b69-4aad-8fdc-2962d81fdf98)
+
+- Rename 'ost-sampleconfig.php' to 'ost-config.php
+- Remove all inherited permisions from 'ost-config.php'
+
+![renamefile](https://github.com/user-attachments/assets/74eb136c-9b97-4da0-aef2-9242aff01747)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br />

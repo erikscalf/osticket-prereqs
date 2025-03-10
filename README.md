@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Installation Steps</h2>
 
 - Download osTicket
 - Enable ISS
@@ -29,7 +29,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create the directory C:\PHP
 - Exract all PHP files into C:\PHP
 
-<h2>Installation Steps</h2>
 
 ![osticket](https://github.com/user-attachments/assets/a292d859-9e46-4650-a7f4-a347a967d047)
 

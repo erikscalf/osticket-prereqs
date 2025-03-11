@@ -117,10 +117,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br \>
 <br \>
 
-- Install and open HeidiSQL
-- Creat a new session
-- Connect to the session
-- Create a database called 'osTicket'
+- Fill out Database Settings to connect to 'osTicket'
 
 ![ost (1)](https://github.com/user-attachments/assets/e96c939a-1730-4133-8be5-7344f102ba38)
 

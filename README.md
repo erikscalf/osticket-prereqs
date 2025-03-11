@@ -95,9 +95,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br \>
 <br \>
 
-- Rename 'ost-sampleconfig.php' to 'ost-config.php
-- Remove all inherited permisions from 'ost-config.php'
+- Add new permission
+- Select a principal
+- Choose 'Everyone'
+- Choose 'Full Control'
 
+![permissions](https://github.com/user-attachments/assets/54348155-32ce-4c4d-be62-4de5f14087e8)
 
 
 
